@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Enzo.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?=enzogagg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=enzogagg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 🎓 Étudiant en 2ᵉ année à **Epitech Lyon**, je suis un passionné de **DevOps**, de **réseaux**, et de la **gestion d'infrastructures**. Mon objectif est de construire des environnements performants, sécurisés et innovants.  
 
