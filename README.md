@@ -29,7 +29,7 @@ En parallèle de mes études, j'ai développé un **homelab** complet pour expé
 ## 🏠 Mon homelab
 - **🖥️ Infrastructure principale** :
   - Plusieurs instances **Proxmox** pour la virtualisation
-  - **pfSense** pour la gestion réseau et la sécurité
+  - **PfSense** pour la gestion réseau et la sécurité
   - **NAS Synology** pour le stockage
   - **Périphériques Unifi** pour la gestion Wi-Fi
 - **Services déployés** :
