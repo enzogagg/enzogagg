@@ -75,6 +75,6 @@ Mon objectif est de construire des solutions **performantes**, **sécurisées**,
 
 ---
 
-## 🐍 Contribution Graph Animation  
+## 🐍 Graphique contribution  
 
 ![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake.svg)
