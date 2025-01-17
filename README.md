@@ -27,7 +27,7 @@ En parallèle de mes études, j'ai développé un **homelab** complet pour expé
 ---
 
 ## 🏠 Mon homelab
-- **Infrastructure principale** :
+- **🖥️ Infrastructure principale** :
   - Plusieurs instances **Proxmox** pour la virtualisation
   - **pfSense** pour la gestion réseau et la sécurité
   - **NAS Synology** pour le stockage
@@ -39,10 +39,10 @@ En parallèle de mes études, j'ai développé un **homelab** complet pour expé
 - **Services multimédias** :
   - **Plex** pour la gestion des médias
   - **Overseerr**, **Radarr**, **Sonarr**, **Prowlarr**, et **FlareSolverr** pour une gestion complète des contenus
-- **Sécurité et authentification** :
+- **🔒 Sécurité et authentification** :
   - **Authentik** pour la gestion des identités et des accès
 
-De nombreux autre service que j'ai configuré sur mon homelab son disponible ici.
+👉 De nombreux autres services que j'ai configurés sur mon homelab sont disponibles [ici](#).
 ---
 
 ## 🌱 Actuellement, je travaille sur :
@@ -57,8 +57,9 @@ De nombreux autre service que j'ai configuré sur mon homelab son disponible ici
 ---
 
 ## 🌍 Me retrouver
-- 💼 [Mon LinkedIn](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🛠️ [Mon GitHub](https://github.com/enzogagg/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzogagg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 ---
 
