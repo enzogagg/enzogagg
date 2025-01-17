@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Enzo  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzogagg&show_icons=true&theme=dark&hide_border=true)](https://github.com/enzogagg)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=enzogagg.enzo)
 
 ---
 
