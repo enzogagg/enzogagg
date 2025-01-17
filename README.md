@@ -56,7 +56,7 @@ En parallèle de mes études, j'ai développé un **homelab** complet pour expé
 ---
 
 ## 🌍 Me retrouver
-- 💼 [Mon LinkedIn]((https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 💼 [Mon LinkedIn](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🛠️ [Mon GitHub](https://github.com/enzogagg/)
 
 ---
