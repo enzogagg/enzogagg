@@ -42,6 +42,7 @@ En parallèle de mes études, j'ai développé un **homelab** complet pour expé
 - **Sécurité et authentification** :
   - **Authentik** pour la gestion des identités et des accès
 
+De nombreux autre service que j'ai configuré sur mon homelab son disponible ici.
 ---
 
 ## 🌱 Actuellement, je travaille sur :
