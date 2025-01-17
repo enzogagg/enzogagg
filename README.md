@@ -1,33 +1,64 @@
-# 👋 Hello, I'm Enzo 
+# 👋 Hello, I'm Enzo.
 
-🎓 Étudiant en 2ᵉ année à **Epitech Lyon**, je suis passionné par tout ce qui touche au **DevOps**, au **réseau**, et à la gestion des infrastructures. En parallèle de mes études, j'ai construit mon propre **homelab**, ce qui me permet d'explorer et d'expérimenter des technologies variées.
+🎓 Étudiant en 2ᵉ année à **Epitech Lyon**, je suis un passionné de **DevOps**, de **réseaux**, et de la **gestion d'infrastructures**. Mon objectif est de construire des environnements performants, sécurisés et innovants.  
 
-## 🔧 Ce que j'aime faire :
-- 🚀 Automatisation et CI/CD
-- 🌐 Gestion des réseaux et sécurité
-- 🖥️ Déploiement et maintenance d'infrastructures 
-- 🛠️ Création et gestion de conteneurs (Docker, Kubernetes)
-
-## 🌟 Compétences techniques :
-- **Langages** : [Liste tes langages ici, ex : Python, Bash, etc.]
-- **Outils DevOps** : [Liste les outils que tu maîtrises, ex : Ansible, Terraform, Jenkins, etc.]
-- **Plateformes** : [Ajoute celles que tu utilises, ex : Proxmox, pfSense, Traefik, etc.]
-- **Monitoring** : [Exemple : Grafana, Prometheus]
-- **Gestion réseau** : VLANs, Firewalls, routage
-
-## 📚 En ce moment :
-- 📖 Perfectionnement en [sujet ou outil spécifique que tu apprends actuellement]
-- 🛠️ Travail sur des projets liés au DevOps et à l'infrastructure
-- 🌐 Contribution à mon homelab, qui comprend [description rapide de ton homelab]
-
-## 🌍 Me retrouver :
-- 💼 [Ton LinkedIn ou Portfolio](#)
-- 🛠️ [Ton GitHub](https://github.com/ton-pseudo)
-
-## 🚀 Mon objectif :
-**Devenir un expert en gestion des infrastructures et DevOps, en combinant innovation et efficacité pour relever les défis du monde IT.**
+En parallèle de mes études, j'ai développé un **homelab** complet pour expérimenter et perfectionner mes compétences.
 
 ---
 
-✨ "La passion pour l'infrastructure n'est pas juste une compétence, c'est une manière de penser." ✨
+## 🔧 Mes compétences techniques
 
+### 🌐 Langages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-0F9D58?logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+
+### 🛠️ Outils et technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-003399?logo=pfsense&logoColor=white)
+![Synology](https://img.shields.io/badge/-Synology-B5B5B6?logo=synology&logoColor=white)
+![Unifi](https://img.shields.io/badge/-Unifi-55C500?logo=ubiquiti&logoColor=white)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikmesh&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+---
+
+## 🏠 Mon homelab
+- **Infrastructure principale** :
+  - Plusieurs instances **Proxmox** pour la virtualisation
+  - **pfSense** pour la gestion réseau et la sécurité
+  - **NAS Synology** pour le stockage
+  - **Périphériques Unifi** pour la gestion Wi-Fi
+- **Services déployés** :
+  - **Docker** pour l'orchestration des conteneurs
+  - **Traefik** pour le reverse proxy et la gestion des certificats SSL
+  - **Grafana** et **Prometheus** pour la supervision et le monitoring
+- **Services multimédias** :
+  - **Plex** pour la gestion des médias
+  - **Overseerr**, **Radarr**, **Sonarr**, **Prowlarr**, et **FlareSolverr** pour une gestion complète des contenus
+- **Sécurité et authentification** :
+  - **Authentik** pour la gestion des identités et des accès
+
+---
+
+## 🌱 Actuellement, je travaille sur :
+- 🚀 Optimisation de mon homelab et déploiement de nouvelles solutions.
+- 📖 Apprentissage avancé sur les pipelines CI/CD et l'automatisation avec des outils comme **Ansible**, **Terraform** et **Kestra**.
+
+---
+
+## 🌟 Mes objectifs
+**Devenir un expert DevOps et infrastructures** capable de concevoir des solutions robustes, performantes et sécurisées adaptées aux besoins d'aujourd'hui et de demain.
+
+---
+
+## 🌍 Me retrouver
+- 💼 [Mon LinkedIn]((https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 🛠️ [Mon GitHub](https://github.com/enzogagg/)
+
+---
+
+✨ *"La passion pour l'infrastructure n'est pas juste une compétence, c'est une manière de penser."* ✨
