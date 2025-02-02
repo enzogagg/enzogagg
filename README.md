@@ -1,24 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Salut+c'est+Enzo%2C;alias+enzogagg)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hello+I'm+Enzo)](https://git.io/typing-svg)
 ---
 
-## 🎓 À propos de moi  
+## 🎓 About me:
 
-Étudiant en 2ᵉ année à **Epitech Lyon**, je suis passionné par tout ce qui touche au **DevOps**, aux **réseaux**, et à la **gestion d'infrastructures**.  
-Mon objectif est de construire des solutions **performantes**, **sécurisées**, et **innovantes** qui répondent aux défis actuels de l'infrastructure informatique.  
+2nd year student at **Epitech Lyon**, I am passionate about everything related to **DevOps**, **networks**, and **infrastructure management**.
+My goal is to build **efficient**, **secure**, and **innovative** solutions that meet the current challenges of IT infrastructure.
 
-✨ *"La passion pour l'infrastructure n'est pas juste une compétence, c'est une manière de penser."*
+✨ *"Passion for infrastructure is not just a skill, it's a way of thinking."*
 
 ---
 
-## 🔧 Compétences techniques  
+## 🔧 Technical skills:
 
-### 🌐 Langages  
+### 🌐 Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![YAML](https://img.shields.io/badge/-YAML-0F9D58?logo=yaml&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 
-### 🛠️ Outils et technologies  
+### 🛠️ Tools and technologies:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
 ![pfSense](https://img.shields.io/badge/-pfSense-003399?logo=pfsense&logoColor=white&style=flat-square)
@@ -30,55 +30,55 @@ Mon objectif est de construire des solutions **performantes**, **sécurisées**,
 
 ---
 
-## 🏠 Mon homelab  
+## 🏠My homelab:
 
-💻 **Infrastructure principale** :  
-- **Proxmox** : Instances multiples pour la virtualisation  
-- **PfSense** : Gestion réseau et sécurité  
-- **NAS Synology** : Stockage centralisé  
-- **Périphériques Unifi** : Gestion Wi-Fi professionnelle  
+💻 **Main infrastructure**:
+- **Proxmox** : Multiple instances for virtualization
+- **PfSense** : Network management and security
+- **Synology NAS** : Centralized storage
+- **Unifi devices** : Professional Wi-Fi management
 
-🔧 **Services déployés** :  
-- **Docker** : Orchestration des conteneurs  
-- **Traefik** : Reverse proxy et gestion SSL  
-- **Grafana** et **Prometheus** : Monitoring et supervision avancés  
+🔧 **Deployed services**:
+- **Docker** : Container orchestration
+- **Traefik** : Reverse proxy and SSL management
+- **Grafana** and **Prometheus** : Advanced monitoring and supervision
 
-🎥 **Services multimédias** :  
-- **Plex** : Gestionnaire multimédia  
-- **Overseerr**, **Radarr**, **Sonarr**, **Prowlarr**, et **FlareSolverr** : Automatisation des contenus  
+🎥 **Multimedia services**:
+- **Plex** : Multimedia manager
+- **Overseerr**, **Radarr**, **Sonarr**, **Prowlarr**, and **FlareSolverr** : Content automation
 
-🔒 **Sécurité et authentification** :  
-- **Authentik** : Gestion des identités et des accès  
+🔒 **Security and authentication**:
+- **Authentik** : Identity and access management
 
-👉 *Découvrez tous les autres services que j'ai configurés dans mon homelab [ici](#).*  
-
----
-
-## 🌱 Actuellement, je travaille sur :  
-- 🚀 Optimisation continue de mon homelab avec des solutions innovantes.  
-- 📖 Développement de pipelines CI/CD et automatisation via **Ansible**, **Terraform**, et **Kestra**.  
+👉 *Discover all the other services I have configured in my homelab [here](#).*
 
 ---
 
-## 🌟 Mes objectifs  
-**Devenir un expert DevOps et infrastructures**, capable de concevoir des solutions robustes, performantes et sécurisées adaptées aux besoins d'aujourd'hui et de demain.
+## 🌱 Currently, I am working on:
+- 🚀 Continuous optimization of my homelab with innovative solutions.
+- 📖 Development of CI/CD pipelines and automation via **Ansible**, **Terraform**, and **Kestra**.
 
 ---
 
-## 🌍 Me retrouver  
+## 🌟 My goals:
+**Become a DevOps and infrastructure expert**, capable of designing robust, efficient and secure solutions adapted to the needs of today and tomorrow.
+
+---
+
+## 🌍 Find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzogagg/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---
 
-## 🐍 Graphique contribution  
+## 🐍 Contribution graph:
 
 ![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake.svg)
 
-# 📊 Statistique Github:
+# 📊 Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false)<br/>
 
-## 🏆 Trophées Github 
+## 🏆 Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
