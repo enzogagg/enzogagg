@@ -82,7 +82,6 @@ Mon objectif est de construire des solutions **performantes**, **sécurisées**,
 # 📊 Statistique Github:
 ![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Trophées Github 
 ![](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
