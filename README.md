@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Salut+c'est+Enzo+alias+enzogagg)](https://git.io/typing-svg)
-
-![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Salut+c'est+Enzo+alias+enzogagg)](https://git.io/typing-svg)
 
 ---
 
@@ -80,7 +78,7 @@ Mon objectif est de construire des solutions **performantes**, **sécurisées**,
 ![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake.svg)
 
 # 📊 Statistique Github:
-![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false)<br/>
 
 ## 🏆 Trophées Github 
