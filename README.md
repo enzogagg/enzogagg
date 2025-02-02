@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Enzo  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Salut+c'est+Enzo+alias+enzogagg)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
