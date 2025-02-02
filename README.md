@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Salut+c'est+Enzo+alias+enzogagg)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Salut+c'est+Enzo%2C;alias+enzogagg)](https://git.io/typing-svg)
 ---
 
 ## 🎓 À propos de moi  
