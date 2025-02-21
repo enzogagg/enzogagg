@@ -17,6 +17,7 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 ![YAML](https://img.shields.io/badge/-YAML-0F9D58?logo=yaml&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 ### 🛠️ Tools and technologies:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
@@ -25,8 +26,6 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 ![Synology](https://img.shields.io/badge/-Synology-B5B5B6?logo=synology&logoColor=white&style=flat-square)
 ![Unifi](https://img.shields.io/badge/-Unifi-55C500?logo=ubiquiti&logoColor=white&style=flat-square)
 ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikmesh&logoColor=white&style=flat-square)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
 
 ---
 
