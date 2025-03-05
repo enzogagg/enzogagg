@@ -3,7 +3,7 @@
 
 ## 🎓 About me:
 
-2nd year student at **Epitech Lyon**, I am passionate about everything related to **DevOps**, **networks**, and **infrastructure management**.
+2nd year student at **Epitech Lyon**, I am passionate about everything related to **DevOps**, **networks**, and **infrastructure management**.  
 My goal is to build **efficient**, **secure**, and **innovative** solutions that meet the current challenges of IT infrastructure.
 
 ✨ *"Passion for infrastructure is not just a skill, it's a way of thinking."*
@@ -29,7 +29,7 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 
 ---
 
-## 🏠My homelab:
+## 🏠 My homelab:
 
 💻 **Main infrastructure**:
 - **Proxmox** : Multiple instances for virtualization
@@ -73,11 +73,15 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 
 ## 🐍 Contribution graph:
 
-![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 ## 📊 Github Stats:
-![]([username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&token=${{secrets.README_ACCESS_TOKEN_STATS}}])<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false])<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false)
+
+---
 
 ## 🏆 Github Trophies:
-![](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
