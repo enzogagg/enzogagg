@@ -76,8 +76,8 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 ![Snake animation](https://github.com/enzogagg/enzogagg/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Github Stats:
-![](username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&token=${{secrets.README_ACCESS_TOKEN_STATS}})<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false)<br/>
+![]([username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&token=${{secrets.README_ACCESS_TOKEN_STATS}}])<br/>
+![]([https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false])<br/>
 
 ## 🏆 Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
