@@ -49,7 +49,7 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 🔒 **Security and authentication**:
 - **Authentik** : Identity and access management
 
-👉 *Discover all the other services I have configured in my homelab [here](#).*
+👉 *Discover all the other services I have configured in my homelab [Homelab](https://github.com/enzogagg/Homelab).*
 
 ---
 
