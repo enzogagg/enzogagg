@@ -79,7 +79,8 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 
 ## 📊 Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzogagg&theme=dracula&hide_border=false) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enzogagg&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ <br/>
 
 ---
 
