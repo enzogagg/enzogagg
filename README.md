@@ -67,7 +67,9 @@ My goal is to build **efficient**, **secure**, and **innovative** solutions that
 ## 🌍 Find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzogagg/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gaggiotti-867a0229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.ega.ovh)
+
 
 ---
 
