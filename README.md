@@ -3,7 +3,7 @@
 
 ## 🎓 About me:
 
-2nd year student at **Epitech Lyon**, I am passionate about everything related to **DevOps**, **networks**, and **infrastructure management**.  
+3nd year student at **Epitech Lyon**, I am passionate about everything related to **DevOps**, **networks**, and **infrastructure management**.  
 My goal is to build **efficient**, **secure**, and **innovative** solutions that meet the current challenges of IT infrastructure.
 
 ✨ *"Passion for infrastructure is not just a skill, it's a way of thinking."*
